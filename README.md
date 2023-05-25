@@ -26,11 +26,11 @@ Once your app matches the demo image, run `npm test` to check your work.
 
 The `<NavBar>` component should return the following JSX elements:
 
-- a `<nav>` element
+[] a `<nav>` element
 - inside the nav element, there should be two child elements:
-  - an `<a>` element, with the `href` attribute set to `#home`, and the content
+  [] an `<a>` element, with the `href` attribute set to `#home`, and the content
     text set to "Home"
-  - an `<a>` element, with the `href` attribute set to `#about`, and the content
+  [] an `<a>` element, with the `href` attribute set to `#about`, and the content
     text set to "About"
 
 ### Home
