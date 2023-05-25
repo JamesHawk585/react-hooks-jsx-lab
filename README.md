@@ -42,9 +42,9 @@ The `<Home>` component should return the following JSX elements:
 
 [x] a `<div>` element with an id of "home"
 - inside the div element, there should be one child element:
-  - an `<h1>` element, with the `style` attribute set to a color of "firebrick",
+  [x] an `<h1>` element, with the `style` attribute set to a color of "firebrick",
     and the content of "Your Name is a Web Developer from Your City"
-  - use JSX expression syntax to use the imported `name` and `city` variables
+  [x] use JSX expression syntax to use the imported `name` and `city` variables
     inside your JSX elements
 
 **Hint**: consult the [React documentation the `style` property][style] to see
@@ -54,11 +54,11 @@ how to set the color correctly.
 
 The `<About>` component should return the following JSX elements:
 
-- a `<div>` element with an id of "about"
+[x] a `<div>` element with an id of "about"
 - inside the div element, there should be three child elements:
-  - an `<h2>` element with the content of "About Me"
-  - a `<p>` element with any content of your choosing
-  - an `<img>` element with the `src` attribute set to the imported `image`
+  [x] an `<h2>` element with the content of "About Me"
+  [x] a `<p>` element with any content of your choosing
+  [x] an `<img>` element with the `src` attribute set to the imported `image`
     variable, and the `alt` attribute set to "I made this"
 
 ## Resources
