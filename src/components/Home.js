@@ -3,8 +3,8 @@ import { name, city } from "../data/data.js";
 
 function Home() {
 // update the JSX being returned!
-return <div>Home
-    <h1>{name} is a a Web Developer from {city}</h1>
+return <div id="home">Home
+    <h1 style={{color: "firebrick"}}>{name} is a a Web Developer from {city}</h1>
 </div>;
 }
 
